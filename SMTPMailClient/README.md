@@ -20,7 +20,7 @@ Following operations are for that:<br/>
 2) Select Turn On for Access for less secure apps.
 ***
 #### Running
-Open your terminal, go to the same path with the file and type this:
+Open your terminal, go to the same path with the file and enter this:
 ```
 py -2 SMTPMailClient.py
 ```
