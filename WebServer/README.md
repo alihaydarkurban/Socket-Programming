@@ -1,7 +1,7 @@
 # WebServer
 ##### It is a simple Web Server that is capable of processing only one request with TCP connection.
 ***
-#### Features of Web Server 
+#### Features of WebServer 
 * It creates a connection socket when contacted by a client which is a browser.
 * It receives the HTTP request from this connection.
 * It parses the request to determine the specific file being requested.
@@ -20,7 +20,7 @@ You have to change IPv4_ADDRESS in the [WebServer.py](https://github.com/alihayd
 ```
 ***
 #### Running
-Open your terminal and go to the same path with the files and typed these:
+Open your terminal, go to the same path with the files and enter this:
 ```
 py -2 WebServer.py
 ```
