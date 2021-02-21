@@ -19,10 +19,13 @@
 * `time` is the time when the client sends the message.
 ***
 #### Running
-*You have to run UDPPingerServer first, after that you can run UDPPingerClient* <br/>
-Open your terminal and go to the same path with the files and typed these:
+*You have to run [UDPPingerServer.py](https://github.com/alihaydarkurban/Socket-Programming/blob/main/UDPPinger/UDPPingerServer.py) first, after that you can run [UDPPingerClient.py](https://github.com/alihaydarkurban/Socket-Programming/blob/main/UDPPinger/UDPPingerClient.py)* <br/>
+Open your terminal for UDPPingerServer.py and go to the same path with the files and typed this:
 ```
 py -2 UDPPingerServer.py
+```
+Open another terminal for UDPPingerClient.py and go to the same path with the files and typed this:
+```
 py -2 UDPPingerClient.py
 ```
 ***
