@@ -20,11 +20,11 @@
 ***
 #### Running
 *You have to run [UDPPingerServer.py](https://github.com/alihaydarkurban/Socket-Programming/blob/main/UDPPinger/UDPPingerServer.py) first, after that you can run [UDPPingerClient.py](https://github.com/alihaydarkurban/Socket-Programming/blob/main/UDPPinger/UDPPingerClient.py)* <br/>
-Open your terminal for UDPPingerServer.py and go to the same path with the files and typed this:
+Open your terminal, go to the same path with the files and enter this:
 ```
 py -2 UDPPingerServer.py
 ```
-Open another terminal for UDPPingerClient.py and go to the same path with the files and typed this:
+Open another terminal for UDPPingerClient.py, go to the same path with the files and enter this:
 ```
 py -2 UDPPingerClient.py
 ```
