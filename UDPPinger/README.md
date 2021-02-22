@@ -29,3 +29,7 @@ Open another terminal for UDPPingerClient.py, go to the same path with the files
 py -2 UDPPingerClient.py
 ```
 ***
+#### Test Results
+You can see the test results [here](https://github.com/alihaydarkurban/Socket-Programming/blob/main/UDPPinger/TestResultsOfUDPPinger.pdf).
+***
+
