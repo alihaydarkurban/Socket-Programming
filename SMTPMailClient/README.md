@@ -25,3 +25,6 @@ Open your terminal, go to the same path with the file and enter this:
 py -2 SMTPMailClient.py
 ```
 ***
+#### Test Results
+You can see the test results [here](https://github.com/alihaydarkurban/Socket-Programming/blob/main/SMTPMailClient/TestResultsOfSMTPMailClient.pdf).
+***
