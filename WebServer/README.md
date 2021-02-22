@@ -25,3 +25,6 @@ Open your terminal, go to the same path with the files and enter this:
 py -2 WebServer.py
 ```
 ***
+#### Test Results
+You can see the test results [here](https://github.com/alihaydarkurban/Socket-Programming/blob/main/WebServer/TestResultsOfWebServer.pdf).
+***
